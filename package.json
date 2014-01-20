@@ -1,0 +1,26 @@
+{
+  "name": "array-all",
+  "version": "1.0.0",
+  "description": "Boolean ALL an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AWinterman/node-all.git"
+  },
+  "keywords": [
+    "all",
+    "boolean"
+  ],
+  "author": "Andrew Winterman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AWinterman/node-all/issues"
+  },
+  "homepage": "https://github.com/AWinterman/node-all",
+  "devDependencies": {
+    "tape": "~2.3.2"
+  }
+}
